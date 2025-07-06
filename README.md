@@ -33,6 +33,29 @@ If you're a recruiter or collaborator, this repository gives you a quick glimpse
 
 ---
 
+## 📜 License  
+**MIT © 2025 [Sangamesh M Kuri]**  
+
+> 🟢 **You can:**  
+> - Use freely  
+> - Modify  
+> - Distribute  
+> - Private/commercial use  
+>  
+> 🟡 **You must:**  
+> - Include original license  
+>  
+> 🔴 **No warranty**  
+> - Author not liable  
+
+The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.  
+
+
+[![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE.md)
+
+
+---
+
 ## 📬 Contact
 
 If you have any questions or collaboration ideas, reach out to me:
